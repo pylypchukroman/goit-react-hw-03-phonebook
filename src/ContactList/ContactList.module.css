@@ -1,0 +1,14 @@
+.Item {
+  display: flex;
+}
+.Item p {
+  margin-right: 20px;
+  margin-top: 0;
+  margin-bottom: 15px;
+  font-size: 14px;
+}
+.Item button {
+  width: 60px;
+  height: 20px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}

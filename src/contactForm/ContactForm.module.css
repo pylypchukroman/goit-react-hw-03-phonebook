@@ -1,0 +1,21 @@
+.Form {
+  border: 1px solid black;
+  display: inline-block;
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  padding: 10px;
+}
+.Label {
+  display: inline-flex;
+  flex-direction: column;
+}
+.Form input {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  width: 150px;
+}
+.Form button {
+  width: 160px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
